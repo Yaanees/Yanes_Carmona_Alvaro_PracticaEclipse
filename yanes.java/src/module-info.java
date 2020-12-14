@@ -1,0 +1,2 @@
+module yanes.java {
+}
